@@ -1,1 +1,1 @@
-本项目主要用于学习研究，项目刚刚创建，正在逐步开发中...欢迎大家斧正。
+Spring MVC+Spring+Hibernate+Maven+shiro
